@@ -28,6 +28,8 @@ computer engineering student and programming lover</h3>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a> 
+<a href="https://python.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
  
   <h3 align="left">DataBase:</h3>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
